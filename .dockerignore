@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log*
+dist
+coverage
+reports
+.git
+.gitignore
+.env
+.env.*
+sbom-spdx.json
